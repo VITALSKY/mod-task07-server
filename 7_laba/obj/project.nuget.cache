@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Aub2/+NbLACOKW0NyYstmEDQ/YSz4aoI9t7rBDSSkdeFxbnJBbPQrhoguFuBzsEzqaeTTtP65y1queB1/RnjaA==",
+  "dgSpecHash": "JVoZTbiy8ahnLnDQPA60GdnwtuJcIB2EhKYOYi7nNFStrg6e9w981PH6NhXNijFZSwAfmcoTSTWtWNL0QdugeQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vital\\7laba\\mod-task07-server\\7_laba\\7_laba.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
